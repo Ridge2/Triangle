@@ -4,6 +4,7 @@ way. Triangle will be an attempt to do so using social networking and a satellit
 world the consequences of our good, bad, individual and collective decisions. This will have to be a colobarative project, among many ppl. 
 
 Objectives:
+
 Initial Objectives:
 
 1. To create a self sustaining social network that strives on making the world a better place by showing others how their action affect each other.
